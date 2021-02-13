@@ -1,1 +1,1 @@
-#React Redux Typescript jsonplaceholder test
+# React Redux Typescript jsonplaceholder test
